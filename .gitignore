@@ -2,3 +2,6 @@
 *.parquet
 data
 
+
+# virtual environments
+/.venv
